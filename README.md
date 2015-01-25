@@ -1,5 +1,5 @@
 ## Getting and Cleaning Data Project
-<b>Ken Kochi</b>
+<b>Ken Kochi</b>  
 <b>January 25, 2015</b>
 
 This assignment uses an R script to read and process accelorometer and gyroscope data collected from smartphones. 
