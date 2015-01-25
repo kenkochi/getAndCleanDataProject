@@ -3,10 +3,10 @@ Space delimited text file
 Text values enclosed by ""  
 Dimensions 180 rows by 88 columns
 
-subject: integer
+subject: integer<br />
 * Integer value from 1 through 30 corresponding to a unique subject
 
-activity: text 
+activity: text<br /> 
 * LAYING
 * SITTING
 * STANDING
