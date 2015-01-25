@@ -2,8 +2,8 @@
 Space delimited text file  
 Text values enclosed by ""  
 Dimensions 180 rows by 88 columns  
-The numeric values in columns 3-88 are based on data measurements which have been normalized and bounded within [-1,1]
-Detailed information about the source data is found in the README.txt and features_info.txt file distributed with the UCI Human Activity Recognition Using Smartphones Dataset
+The numeric values in columns 3-88 are based on data measurements which have been normalized and bounded within [-1,1]  
+Detailed information about the source data is found in the README.txt and features_info.txt files distributed with the UCI Human Activity Recognition Using Smartphones Dataset
 
 ###tidy_data variables:
 subject: integer
