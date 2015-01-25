@@ -1,7 +1,7 @@
 ## CodeBook for tidy_data.txt
-*Space delimited text file
-*Text values enclosed by ""
-*Dimensions 180 rows by 88 columns
+Space delimited text file  
+Text values enclosed by ""  
+Dimensions 180 rows by 88 columns
 
 subject: integer
 * Integer value from 1 through 30 corresponding to a unique subject
